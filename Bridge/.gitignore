@@ -1,0 +1,6 @@
+.env
+contracts/.placeholder
+test/.placeholder
+build
+node_modules
+.history

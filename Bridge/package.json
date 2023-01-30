@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@maticnetwork/maticjs": "^3.6.0-beta.2",
+    "@truffle/hdwallet-provider": "^2.1.5"
+  },
+  "name": "matictransfer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
